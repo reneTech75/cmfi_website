@@ -1,0 +1,2 @@
+1. The absolute file path for the website project is:
+Users/Fjap/Desktop/CMFI_Burlington/cmfi_website
